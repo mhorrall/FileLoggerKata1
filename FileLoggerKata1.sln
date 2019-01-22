@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileLoggerKata1", "FileLoggerKata1\FileLoggerKata1.csproj", "{A0D7714F-5105-4F92-B2E8-72D7B5DAF8F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileLoggerKata1Tests", "FileLoggerKata1Tests\FileLoggerKata1Tests.csproj", "{90BD0D81-BDED-4446-B341-FCEB74DB43EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A0D7714F-5105-4F92-B2E8-72D7B5DAF8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0D7714F-5105-4F92-B2E8-72D7B5DAF8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0D7714F-5105-4F92-B2E8-72D7B5DAF8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90BD0D81-BDED-4446-B341-FCEB74DB43EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BD0D81-BDED-4446-B341-FCEB74DB43EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BD0D81-BDED-4446-B341-FCEB74DB43EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BD0D81-BDED-4446-B341-FCEB74DB43EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
